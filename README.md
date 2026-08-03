@@ -78,7 +78,7 @@ footer{
 <h2>Contact Us</h2>
 <p>📞 Mobile: 6390328065</p>
 
-<a class="btn" href="https://wa.me/916390328065">
+<a class="btn" href="https://wa.me/916390338065">
 WhatsApp करें
 </a>
 
