@@ -1,94 +1,136 @@
-<
 <!DOCTYPE html>
-<html lang="hi">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ER Auto Tech - Abhishek Auto Electrician</title>
+<title>ER Abhishek Shakya Auto Tech</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
 body{
-    margin:0;
-    font-family:Arial,sans-serif;
-    background:#111;
-    color:white;
+margin:0;
+font-family:Arial,sans-serif;
+background:#0b0b0b;
+color:white;
 }
+
 header{
-    background:#e63900;
-    padding:25px;
-    text-align:center;
+background:linear-gradient(90deg,#e50914,#ff9800);
+padding:35px 15px;
+text-align:center;
 }
+
 h1{
-    margin:0;
-    font-size:32px;
+font-size:32px;
+margin:0;
 }
-section{
-    padding:20px;
+
+.tag{
+font-size:18px;
+margin-top:10px;
 }
-.card{
-    background:#222;
-    padding:15px;
-    margin:15px 0;
-    border-radius:10px;
+
+.box{
+background:#171717;
+margin:20px;
+padding:25px;
+border-radius:15px;
+box-shadow:0 0 10px #333;
 }
+
+h2{
+color:#ff9800;
+}
+
+.service{
+line-height:2;
+font-size:18px;
+}
+
 .btn{
-    display:inline-block;
-    background:#25d366;
-    color:white;
-    padding:12px 20px;
-    border-radius:8px;
-    text-decoration:none;
-    font-weight:bold;
+display:inline-block;
+background:#25D366;
+color:white;
+padding:15px 25px;
+border-radius:10px;
+text-decoration:none;
+font-size:18px;
+margin:10px;
 }
+
+.call{
+background:#e50914;
+}
+
 footer{
-    text-align:center;
-    background:#000;
-    padding:15px;
+background:#000;
+padding:20px;
+text-align:center;
 }
+
 </style>
 </head>
+
 
 <body>
 
 <header>
-<h1>ER Auto Tech</h1>
-<p>Abhishek Auto Electrician</p>
-<p>Advanced Car Diagnostic & ECU Solution</p>
+<h1>ER ABHISHEK SHAKYA</h1>
+<div class="tag">AUTO TECH</div>
+<p>Professional Car Diagnostics & ECU Expert</p>
 </header>
 
-<section>
 
-<div class="card">
-<h2>हमारी सर्विस</h2>
-<p>✅ ECU Repair</p>
-<p>✅ ECM Coding & Programming</p>
-<p>✅ Key Programming</p>
-<p>✅ DPF Solution</p>
-<p>✅ XTOOL XT80 Diagnostic Scan</p>
-<p>✅ Car Electrical Repair</p>
+<div class="box">
+
+<h2>Our Services</h2>
+
+<div class="service">
+
+✅ ECU / ECM Repair<br>
+✅ ECM Coding & Programming<br>
+✅ ECU Cloning<br>
+✅ Key Programming<br>
+✅ Car Scanner Diagnosis<br>
+✅ DPF Solution<br>
+✅ Electrical Fault Repair<br>
+✅ Advanced Diagnostic Service
+
 </div>
 
-<div class="card">
-<h2>Car Diagnostic Specialist</h2>
-<p>Mahindra | Tata | Hyundai | Maruti | Other Cars</p>
-<p>Advanced Fault Finding & Module Programming</p>
 </div>
 
-<div class="card">
+
+<div class="box">
+
 <h2>Contact Us</h2>
-<p>📞 Mobile: 6390338065</p>
 
-<a class="btn" href="https://wa.me/916390338065">
-WhatsApp करें
+<p>Call for Car Diagnostic Service</p>
+
+<a class="btn call" href="tel:6390328065">
+📞 Call Now
+</a>
+
+<a class="btn" href="https://wa.me/916390328065">
+💬 WhatsApp
 </a>
 
 </div>
 
-</section>
+
+<div class="box">
+
+<h2>Location</h2>
+
+<p>Abhishek Auto Electrician</p>
+<p>Car Electronic Specialist</p>
+
+</div>
+
 
 <footer>
-<p>© 2026 ER Auto Tech | Abhishek Auto Electrician</p>
+© 2026 ER Abhishek Shakya Auto Tech
 </footer>
+
 
 </body>
 </html>
