@@ -76,7 +76,7 @@ footer{
 
 <div class="card">
 <h2>Contact Us</h2>
-<p>📞 Mobile: 6390328065</p>
+<p>📞 Mobile: 6390338065</p>
 
 <a class="btn" href="https://wa.me/916390338065">
 WhatsApp करें
